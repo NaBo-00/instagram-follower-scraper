@@ -20,7 +20,6 @@ Please keep in mind that this only functions when certain conditions are met:
   
 - [download]([ChromeDriver - WebDriver for Chrome - Downloads](https://chromedriver.chromium.org/downloads)) suitable Chromedriver
   
-
 ## Configuration
 
 - Python Version used: Python 3.8.5
@@ -41,19 +40,16 @@ Please keep in mind that this only functions when certain conditions are met:
   
   - Before running the script make changes to the run configurations of PyCharm:
     
-    1. Navigate to the right top corner, open the dropdown and click on "Edit Configuration"
+    a. Navigate to the right top corner, open the dropdown and click on "Edit Configuration"
       
-    2. Under Execution select the "Emulate terminal in output console" option
+    b. Under Execution select the "Emulate terminal in output console" option
       
-    3. Apply all changes with "apply"
+    c. Apply all changes with "apply"
       
+    d. Finish Configuration with "OK"
     
-       4. Finish Configuration with "OK"
-    
-    ![](file://C:\Users\nareg\AppData\Roaming\marktext\images\2022-11-23-11-00-36-image.png?msec=1669197636599)
-    
-    ![](file://C:\Users\nareg\AppData\Roaming\marktext\images\2022-11-23-10-59-00-image.png?msec=1669197540456)
-    
+    <div><img alt="edit_config1.png" src="img/edit_config1.png"/></div>
+    <div><img alt="edit_config1.png" src="img/edit_config2.png"/></div>
 
 ## Common Issues
 
