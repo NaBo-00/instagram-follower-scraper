@@ -1,4 +1,4 @@
-instagram-follower-scraper
+# instagram-follower-scraper
 
 ## Disclaimer
 
@@ -68,11 +68,11 @@ Possible Solutions:
 - Make sure that the Chromedriver suits your google Chrome version
   
 
-&rarr; If there are other issues don't hesitate to open a new [issue]([Sign in to GitHub · GitHub](https://github.com/Na-Bo00/instagram-follower-scraper/issues/new)).
+&rarr; If there are other issues don't hesitate to open a new [issue](https://github.com/Na-Bo00/instagram-follower-scraper/issues/new).
 
 ## Contact
 
-If you have any questions, face any problems or have any improvment suggestions do not hesitate to contact me or open a new [issue]([Sign in to GitHub · GitHub](https://github.com/Na-Bo00/instagram-follower-scraper/issues/new)).
+If you have any questions, face any problems or have any improvment suggestions do not hesitate to contact me or open a new [issue](https://github.com/Na-Bo00/instagram-follower-scraper/issues/new).
 
 ---
 
