@@ -2,7 +2,7 @@
 
 ## Disclaimer
 
-| :warning: | Use on your own risk, the author of this project is not liable for :exclamation: |
+| :warning: | Use on your own risk, the author of this project is not liable for your actions :exclamation: |
 | --- | --- |
 | :warning: | This project was made for research and educational purposes **ONLY**:exclamation: |
 
