@@ -12,7 +12,7 @@ import getpass
 def followerscrape(usr, pw, ig_usr):
 
     #Author and Copyright references
-    print("[Notice] - Follower List Scraper by Na-Bo00\n[Notice] - Copyright Na-Bo00 | All Rights Reserved")
+    print("[Notice] - Follower List Scraper by NaBo-00\n[Notice] - Copyright NaBo-00 | All Rights Reserved")
 
     #Actual Scraping process starts
     print("[START] - followerscraper.py")
