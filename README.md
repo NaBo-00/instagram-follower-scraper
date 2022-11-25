@@ -5,10 +5,13 @@
 | :warning: | Use on your own risk, the author of this project is not liable for your actions :exclamation: |
 | --- | --- |
 | :warning: | This project was made for research and educational purposes **ONLY**:exclamation: |
+| :warning: | This project violates Instagrams's User Agreement, and because of this, Instagram may (and will) temporarily or permanently ban your account. We are not responsible for your account being banned:exclamation: |
 
 ## Description
 
-This script scrapes the follower list of **ANY** Instagram profile and was build for research and educational purposes **ONLY**. Use with caution and on your own risk:exclamation:
+This script scrapes the follower list of **ANY** Instagram profile and saves the scraped data into an excel file.
+
+This project was build for research and educational purposes **ONLY**. Use with caution and on your own risk:exclamation:
 
 ## Prerequisites
 
@@ -18,13 +21,13 @@ Please keep in mind that this only functions when certain conditions are met:
   
 - valid IG account
   
-- [download]([ChromeDriver - WebDriver for Chrome - Downloads](https://chromedriver.chromium.org/downloads)) suitable Chromedriver
+- [download](https://chromedriver.chromium.org/downloads) suitable Chromedriver
   
 ## Configuration
 
 - Python Version used: Python 3.8.5
   
-- [Chromedriver]([ChromeDriver - WebDriver for Chrome - Downloads](https://chromedriver.chromium.org/downloads)) Version used: [ChromeDriver 107.0.5304.62](https://chromedriver.storage.googleapis.com/index.html?path=107.0.5304.62/)
+- [Chromedriver](https://chromedriver.chromium.org/downloads) Version used: [ChromeDriver 107.0.5304.62](https://chromedriver.storage.googleapis.com/index.html?path=107.0.5304.62/)
   
 - PyCharm IDE Version used: PyCharm Community Edition 2020.1.4
   
@@ -63,15 +66,14 @@ Possible Solutions:
   
 - Make sure that the Chromedriver suits your google Chrome version
   
-
-&rarr; If there are other issues don't hesitate to open a new [issue](https://github.com/Na-Bo00/instagram-follower-scraper/issues/new).
+&rarr; If there are other issues don't hesitate to open a new [issue](https://github.com/NaBo-00/instagram-follower-scraper/issues/new).
 
 ## Contact
 
-If you have any questions, face any problems or have any improvment suggestions do not hesitate to contact me or open a new [issue](https://github.com/Na-Bo00/instagram-follower-scraper/issues/new).
+If you have any questions, face any problems or have any improvement suggestions do not hesitate to contact me or open a new [issue](https://github.com/NaBo-00/instagram-follower-scraper/issues/new).
 
 ---
 
-Made by Na-Bo00 | Copyright (c) Na-Bo00 | All Rights Reserved
+Made by NaBo-00 | Copyright (c) NaBo-00 | All Rights Reserved
 
-<div><img alt="Na-Bo00-Logo.jpg" src="https://github.com/Na-Bo00/monitor_log_Web-Server/blob/main/Na-Bo00-Logo.jpg" width="100" height="35" /></div>
+<div><img alt="NaBo-00-logo.png" src="img/NaBo-00-logo.png" width="100" height="60" /></div>
