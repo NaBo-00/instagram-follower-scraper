@@ -79,6 +79,6 @@ If you have any questions, face any problems or have any improvement suggestions
 
 ---
 
-Made by NaBo-00 | Copyright (c) NaBo-00 | All Rights Reserved
+Made by NaBo-00 | Copyright &copy; NaBo-00 | All Rights Reserved
 
 <div><img alt="NaBo-00-logo.png" src="img/NaBo-00-logo.png" width="100" height="60" /></div>
