@@ -68,6 +68,11 @@ Possible Solutions:
   
 &rarr; If there are other issues don't hesitate to open a new [issue](https://github.com/NaBo-00/instagram-follower-scraper/issues/new).
 
+## Legal :warning:
+This script is in no way affiliated with, authorized, maintained, sponsored or endorsed by Instagram or any of its affiliates or subsidiaries. Developed for research and educational purposes ONLY - Use at your own risk.
+
+This project violates Instagram's Terms of Service (TOS), and because of this, Instagram may (and will) temporarily or permanently ban your account. I'm not responsible for your account being banned or any actions you perform.
+
 ## Contact
 
 If you have any questions, face any problems or have any improvement suggestions do not hesitate to contact me or open a new [issue](https://github.com/NaBo-00/instagram-follower-scraper/issues/new).
